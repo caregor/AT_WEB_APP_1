@@ -1,0 +1,6 @@
+'address': 'https://speller.yandex.net/services/spellservice?WSDL'
+'url': 'https://test-stand.gb.ru/gateway/login'
+'login': 'orangemouse807'
+'password': 'a4f8fb1d99'
+'api': 'https://test-stand.gb.ru/api/posts'
+'title': 'post from pycharm'
